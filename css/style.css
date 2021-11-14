@@ -1,0 +1,70 @@
+.level1 {
+    width: 200px;
+    padding: 10px 0px;
+    margin: 0px auto;
+    border: 1px solid black;
+    border-radius: 15px;
+    text-align: center;
+    line-height: 30px;
+}
+
+.level2 {
+    width: 400px;
+    padding: 10px 0px;
+    margin: 0px -100px;
+    border-radius: 15px;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 30px;
+}
+
+.level3 {
+    width: 600px;
+    padding: 10px 0px;
+    margin: 0px -100px;
+    border-radius: 15px;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 30px;
+}
+
+.level4 {
+    width: 800px;
+    padding: 10px 0px;
+    margin: 0px -100px;
+    border-radius: 15px;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 30px;
+}
+
+.level5 {
+    width: 1000px;
+    padding: 10px 0px;
+    margin: 0px -100px;
+    border-radius: 15px;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 30px;
+}
+
+body * {
+    background: green;
+}
+
+body * * {
+    background: yellow;
+}
+
+body * * * {
+    background: brown;
+}
+
+body * * * * {
+    background: blue;
+}
+
+body * * * * * {
+    background: red;
+}
+
